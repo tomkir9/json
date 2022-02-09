@@ -1,0 +1,32 @@
+[
+    {
+    "time": "time1",
+    "values": [
+        { "from": "1", "to": "4", "Health_Status":"Healthy" },
+        { "from": "2", "to": "4", "Health_Status":"Critical" },
+        { "from": "3", "to": "4", "Health_Status":"Healthy"},
+        { "from": "4", "to": "5", "Health_Status":"Alarm" },
+        { "from": "5", "to": "6", "Health_Status":"Critical" }
+        ]
+    },
+    {
+    "time": "time2",
+    "values": [
+        { "from": "1", "to": "4", "Health_Status":"Healthy" },
+        { "from": "2", "to": "4", "Health_Status":"Critical" },
+        { "from": "3", "to": "4", "Health_Status":"Healthy" },
+        { "from": "4", "to": "5", "Health_Status":"Healthy" },
+        { "from": "5", "to": "6", "Health_Status":"Alarm" }
+        ]
+    },
+    {
+    "time": "time3",
+    "values": [
+        { "from": "1", "to": "4", "Health_Status":"Alarm" },
+        { "from": "2", "to": "4", "Health_Status":"Healthy" },
+        { "from": "3", "to": "4", "Health_Status":"Critical" },
+        { "from": "4", "to": "5", "Health_Status":"Critical"  },
+        { "from": "5", "to": "6", "Health_Status":"Healthy" }
+        ]
+    }
+]

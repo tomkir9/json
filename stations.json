@@ -1,0 +1,35 @@
+[
+  {
+    "time": "time1",
+    "values": [
+      { "key": 1, "name": "Station 1", "title": "Server", "loc": "-600 25",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Healthy"},
+      { "key": 2, "name": "Station 2", "title": "Router", "loc": "600 25",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 3, "name": "Station 3", "title": "Router", "loc": "-150 100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Critical"},
+      { "key": 4, "name": "Station 4", "title": "Sensor", "loc": "25 200",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 5, "name": "Station 5", "title": "Router", "loc": "25 -200",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 6, "name": "Station 6", "title": "PC",     "loc": "175 -100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"}
+    ]
+  },
+  {
+    "time": "time2",
+    "values": [
+      { "key": 1, "name": "Station 1", "title": "Server", "loc": "-600 25",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 2, "name": "Station 2", "title": "Router", "loc": "600 25",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Critical"},
+      { "key": 3, "name": "Station 3", "title": "Router", "loc": "-150 100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 4, "name": "Station 4", "title": "Sensor", "loc": "25 200",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Healthy"},
+      { "key": 5, "name": "Station 5", "title": "Router", "loc": "25 -200",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Healthy"},
+      { "key": 6, "name": "Station 6", "title": "PC",     "loc": "175 -100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Healthy"}
+    ]
+  },
+  {
+    "time": "time3",
+    "values": [
+      { "key": 1, "name": "Station 1", "title": "Server", "loc": "-600 25",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Healthy"},
+      { "key": 2, "name": "Station 2", "title": "Router", "loc": "600 25",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 3, "name": "Station 3", "title": "Router", "loc": "-150 100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Critical"},
+      { "key": 4, "name": "Station 4", "title": "Sensor", "loc": "25 200",   "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 5, "name": "Station 5", "title": "Router", "loc": "25 -200",  "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"},
+      { "key": 6, "name": "Station 6", "title": "PC",     "loc": "175 -100", "color": "white", "time": 1, "Temperature": 6 , "Max_Capacity": 15, "Current_Capacity" : 13, "Energy_Consumption": 15, "Health_Status": "Alarm"}
+    ]
+  }
+]
